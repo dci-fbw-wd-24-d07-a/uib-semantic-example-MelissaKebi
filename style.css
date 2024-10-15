@@ -1,0 +1,50 @@
+body {
+  color: rgb(70, 61, 58);
+}
+ul {
+  list-style: none;
+  padding-left: 60%;
+  word-spacing: 10px;
+}
+li {
+  display: inline-block;
+}
+main {
+  height: 100vh;
+}
+.card {
+  border: 3px solid;
+  border-radius: 20px;
+  padding: 0.5rem;
+}
+div {
+  margin: 2rem;
+}
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+footer {
+  border: 3px solid;
+  border-radius: 7rem;
+  height: 10rem;
+  text-align: center;
+  word-spacing: 10px;
+}
+.color {
+  color: rgb(12, 105, 27);
+}
+#foto {
+  width: 100px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0.5rem;
+}
